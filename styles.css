@@ -1,0 +1,33 @@
+/*CSS Selector*/
+body {
+    /*CSS Decleration*/
+    /*CSS Rule property:value; */
+    
+}
+
+header {
+display: flex;
+}
+
+.headerLogo {
+  
+}
+
+.navigationList {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.kontaktOgProsjekt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.prosjekter {
+   
+}
+
+.kontakt {
+    
+}
